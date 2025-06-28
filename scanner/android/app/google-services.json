@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440594628159",
+    "project_id": "scanner-744bd",
+    "storage_bucket": "scanner-744bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440594628159:android:c81051576301ec98c3c28a",
+        "android_client_info": {
+          "package_name": "com.example.planthealthscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF7d-VedVZ6rs2dslCDhOMULip7zJsvOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

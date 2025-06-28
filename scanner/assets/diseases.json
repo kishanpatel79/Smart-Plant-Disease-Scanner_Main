@@ -1,0 +1,271 @@
+[
+  {
+    "name": "Tomato___healthy",
+    "description": "A healthy state of tomato plants free from diseases.",
+    "symptoms": "No visible signs of infection or disease.",
+    "treatment": "Regular care, proper watering, and pest control.",
+    "prevention": "Maintain plant health with good soil management, proper spacing, and pest control."
+  },
+  {
+    "name": "Tomato___Septoria_leaf_spot",
+    "description": "A fungal disease caused by Septoria lycopersici, leading to the development of spots on tomato leaves.",
+    "symptoms": "Small, circular, water-soaked spots with dark borders on leaves.",
+    "treatment": "Remove infected leaves. Apply fungicides, particularly those with copper or chlorothalonil.",
+    "prevention": "Avoid overhead watering. Space plants to ensure good air circulation and reduce humidity. Rotate crops."
+  },
+  {
+    "name": "Corn_(maize)___healthy",
+    "description": "Healthy, disease-free corn plants.",
+    "symptoms": "No visible symptoms of disease or pest infestation.",
+    "treatment": "Regular care and proper irrigation.",
+    "prevention": "Maintain healthy soil, avoid water stress, and use resistant varieties."
+  },
+  {
+    "name": "Peach___healthy",
+    "description": "A healthy state of peach trees.",
+    "symptoms": "No visible signs of disease or pest damage.",
+    "treatment": "Standard care including watering, pruning, and pest management.",
+    "prevention": "Ensure good spacing, avoid water stress, and remove fallen fruit to prevent pests."
+  },
+  {
+    "name": "Apple___Cedar_apple_rust",
+    "description": "A fungal disease caused by Gymnosporangium juniper-virginianae affecting apples and cedars.",
+    "symptoms": "Yellow-orange spots on apple leaves, with raised, rusty areas on the undersides. Infected fruit develops small brown lesions.",
+    "treatment": "Remove infected leaves. Apply fungicides during early spring and late fall.",
+    "prevention": "Remove nearby junipers, practice good air circulation, and apply preventive fungicides."
+  },
+  {
+    "name": "Squash___Powdery_mildew",
+    "description": "A fungal disease caused by Podosphaera xanthii, affecting squash and other cucurbits.",
+    "symptoms": "White, powdery growth on the upper surfaces of leaves. Yellowing and curling of infected leaves.",
+    "treatment": "Remove infected leaves. Apply fungicides, particularly those containing sulfur or neem oil.",
+    "prevention": "Space plants for good airflow. Water at the base of plants to avoid wetting the foliage."
+  },
+  {
+    "name": "Grape___healthy",
+    "description": "Healthy, disease-free grapevines.",
+    "symptoms": "No visible signs of disease or pest infestation.",
+    "treatment": "Standard vine care, including pruning and pest control.",
+    "prevention": "Maintain proper soil conditions, prune dead wood, and control pests regularly."
+  },
+  {
+    "name": "Tomato___Tomato_mosaic_virus",
+    "description": "A viral disease caused by the Tomato mosaic virus (ToMV), affecting tomatoes and other Solanaceae plants.",
+    "symptoms": "Mosaic-like yellow and green patterns on leaves. Stunted growth and deformed fruit.",
+    "treatment": "Remove infected plants. There's no cure for the virus, so prevention is key.",
+    "prevention": "Use virus-resistant tomato varieties. Practice good hygiene and remove infected plants."
+  },
+  {
+    "name": "Tomato___Bacterial_spot",
+    "description": "A bacterial disease caused by Xanthomonas campestris, affecting tomatoes and other Solanaceae plants.",
+    "symptoms": "Small, water-soaked lesions on leaves, followed by yellow halos and the eventual collapse of the tissue.",
+    "treatment": "Remove infected leaves and plants. Use copper-based fungicides.",
+    "prevention": "Rotate crops and avoid working with plants when wet. Use resistant tomato varieties."
+  },
+  {
+    "name": "Corn_(maize)___Common_rust_",
+    "description": "A fungal disease caused by Puccinia sorghi, affecting corn plants.",
+    "symptoms": "Small, reddish-brown pustules on the leaves and stems, causing yellowing of the leaves.",
+    "treatment": "Remove infected plant material and apply fungicides if necessary.",
+    "prevention": "Use resistant corn varieties and rotate crops."
+  },
+  {
+    "name": "Cherry_(including_sour)___Powdery_mildew",
+    "description": "A fungal disease caused by Podosphaera clandestina, affecting cherry trees.",
+    "symptoms": "White, powdery spots on leaves, shoots, and flowers. Leaves may curl and turn yellow.",
+    "treatment": "Remove infected leaves and shoots. Apply sulfur-based fungicides or neem oil.",
+    "prevention": "Space trees for good air circulation and avoid wetting foliage during watering."
+  },
+  {
+    "name": "Apple___Apple_scab",
+    "description": "A fungal disease caused by Venturia inaequalis, affecting apple trees and fruit.",
+    "symptoms": "Olive-green to dark-brown lesions on leaves, stems, and fruit. Infected fruit may become deformed.",
+    "treatment": "Remove infected leaves and fruit. Apply fungicides containing mancozeb or captan.",
+    "prevention": "Prune trees to improve air circulation, practice crop rotation, and use resistant varieties."
+  },
+  {
+    "name": "Potato___Late_blight",
+    "description": "A destructive disease caused by Phytophthora infestans, affecting potatoes and tomatoes.",
+    "symptoms": "Dark, water-soaked lesions on leaves and stems. Infected tubers develop brown rot.",
+    "treatment": "Remove and destroy infected plants. Apply copper-based fungicides or specific late blight fungicides.",
+    "prevention": "Use resistant potato varieties, practice crop rotation, and avoid overhead watering."
+  },
+  {
+    "name": "Strawberry___Leaf_scorch",
+    "description": "A disease caused by the bacteria Xanthomonas fragariae, leading to leaf scorch on strawberry plants.",
+    "symptoms": "Yellowing or browning of leaf edges, with necrotic tissue. Leaves may curl and drop prematurely.",
+    "treatment": "Remove infected leaves and apply copper-based bactericides.",
+    "prevention": "Avoid overhead irrigation, provide good spacing for air circulation, and remove debris."
+  },
+  {
+    "name": "Orange___Haunglongbing_(Citrus_greening)",
+    "description": "A bacterial disease caused by Candidatus Liberibacter species, affecting citrus trees.",
+    "symptoms": "Yellowing of leaves, asymmetric fruit development, and bitter taste. Fruit may remain small and deformed.",
+    "treatment": "There is no cure for HLB. Remove and destroy infected trees, and manage the vector insect (Asian citrus psyllid).",
+    "prevention": "Prevent the spread by controlling insect vectors and removing infected trees."
+  },
+  {
+    "name": "Corn_(maize)___Northern_Leaf_Blight",
+    "description": "A fungal disease caused by Exserohilum turcicum, affecting corn plants.",
+    "symptoms": "Large, elongated, grayish-green lesions with dark borders on leaves. The disease can cause premature leaf death.",
+    "treatment": "Remove and destroy infected plant debris. Apply fungicides, particularly those containing strobilurins or triazoles.",
+    "prevention": "Plant resistant corn varieties and practice crop rotation."
+  },
+  {
+    "name": "Pepper,_bell___healthy",
+    "description": "Healthy, disease-free bell pepper plants.",
+    "symptoms": "No visible signs of disease or pest infestation.",
+    "treatment": "Regular care including proper watering and pest management.",
+    "prevention": "Maintain healthy soil, avoid water stress, and use pest control practices."
+  },
+  {
+    "name": "Grape___Black_rot",
+    "description": "A fungal disease caused by Guignardia bidwellii, affecting grapevines.",
+    "symptoms": "Dark brown to black lesions on leaves, stems, and fruit. Infected fruit shrivels and turns black.",
+    "treatment": "Remove infected plant parts and apply fungicides containing myclobutanil or sulfur.",
+    "prevention": "Prune grapevines to improve airflow and space plants. Practice good vineyard sanitation."
+  },
+  {
+    "name": "Pepper,_bell___Bacterial_spot",
+    "description": "A bacterial disease caused by Xanthomonas campestris pv. vesicatoria, affecting bell peppers.",
+    "symptoms": "Small, water-soaked lesions with yellow halos on leaves, stems, and fruit. The lesions enlarge and cause tissue collapse.",
+    "treatment": "Remove infected leaves and fruits. Apply copper-based bactericides or streptomycin.",
+    "prevention": "Use resistant pepper varieties, avoid working with wet plants, and practice crop rotation."
+  },
+  {
+    "name": "Tomato___Early_blight",
+    "description": "A fungal disease caused by Alternaria solani, affecting tomatoes.",
+    "symptoms": "Concentric, dark brown lesions on lower leaves, often surrounded by yellow halos. Lesions may appear on stems and fruit.",
+    "treatment": "Remove infected leaves. Apply fungicides such as chlorothalonil or mancozeb.",
+    "prevention": "Rotate crops, avoid overhead watering, and remove fallen plant debris."
+  },  
+  {
+      "name": "Blueberry___healthy",
+      "description": "Healthy, disease-free blueberry plants.",
+      "symptoms": "No visible signs of disease or pest infestation.",
+      "treatment": "Regular care including proper watering, pruning, and pest management.",
+      "prevention": "Maintain healthy soil, avoid water stress, and apply balanced fertilizers."
+    },
+    {
+      "name": "Cherry_(including_sour)___healthy",
+      "description": "Healthy, disease-free cherry trees.",
+      "symptoms": "No visible signs of disease or pest infestation.",
+      "treatment": "Regular care including proper watering, pruning, and pest management.",
+      "prevention": "Maintain proper spacing for good air circulation and apply preventative treatments for pests."
+    },
+    {
+      "name": "Potato___healthy",
+      "description": "Healthy, disease-free potato plants.",
+      "symptoms": "No visible signs of disease or pest infestation.",
+      "treatment": "Maintain regular care with proper irrigation, soil fertility, and pest management.",
+      "prevention": "Rotate crops, use healthy seed potatoes, and avoid water stress."
+    },
+    {
+      "name": "Apple___Black_rot",
+      "description": "A fungal disease caused by Botryosphaeria obtusa, affecting apple trees and fruit.",
+      "symptoms": "Circular lesions with purple edges and brown centers on leaves. Black, sunken lesions on fruit with concentric rings.",
+      "treatment": "Remove infected fruit and cankers. Apply fungicides like mancozeb or captan.",
+      "prevention": "Prune and destroy dead wood, maintain tree health with proper fertilization, and apply fungicides during the growing season."
+    },
+    {
+      "name": "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)",
+      "description": "A fungal disease caused by Isariopsis viticola, affecting grapevines.",
+      "symptoms": "Small, circular lesions with dark edges on leaves. Lesions enlarge and cause yellowing of the surrounding tissue.",
+      "treatment": "Remove infected leaves and apply fungicides containing copper or sulfur.",
+      "prevention": "Prune to improve airflow, avoid overhead irrigation, and apply preventative fungicides."
+    },
+    {
+      "name": "Tomato___Target_Spot",
+      "description": "A fungal disease caused by Corynespora cassiicola, affecting tomatoes.",
+      "symptoms": "Round, dark spots with concentric rings on leaves, stems, and fruit. Infected fruit may develop sunken lesions.",
+      "treatment": "Remove infected plant parts and apply fungicides such as chlorothalonil or mancozeb.",
+      "prevention": "Practice crop rotation, avoid overhead irrigation, and remove fallen plant debris."
+    },
+    {
+      "name": "Tomato___Spider_mites_Two-spotted_spider_mite",
+      "description": "A pest infestation caused by Tetranychus urticae, affecting tomato plants.",
+      "symptoms": "Fine webbing on leaves, yellowing, stippling, and curling of leaves. Heavy infestations can cause defoliation.",
+      "treatment": "Spray with miticides or insecticidal soaps, and remove heavily infested leaves.",
+      "prevention": "Use resistant varieties, avoid water stress, and regularly inspect for pests."
+    },
+    {
+      "name": "Tomato___Tomato_Yellow_Leaf_Curl_Virus",
+      "description": "A viral disease caused by Tomato yellow leaf curl virus (TYLCV), affecting tomato plants.",
+      "symptoms": "Yellowing of leaves, curling, stunted growth, and reduced fruit production.",
+      "treatment": "There is no cure for TYLCV. Remove and destroy infected plants, control vector insects.",
+      "prevention": "Use resistant varieties and control the whitefly vector that transmits the virus."
+    },
+    {
+      "name": "Apple___healthy",
+      "description": "Healthy, disease-free apple trees.",
+      "symptoms": "No visible signs of disease or pest infestation.",
+      "treatment": "Regular care including proper irrigation, pruning, and pest management.",
+      "prevention": "Maintain good orchard sanitation, and apply appropriate fertilizers."
+    },
+    {
+      "name": "Soybean___healthy",
+      "description": "Healthy, disease-free soybean plants.",
+      "symptoms": "No visible signs of disease or pest infestation.",
+      "treatment": "Maintain proper care with appropriate watering and pest management.",
+      "prevention": "Practice crop rotation, use resistant varieties, and maintain healthy soil."
+    },
+      {
+        "name": "Grape___Esca_(Black_Measles)",
+        "description": "A fungal disease caused by several species of fungi, affecting grapevines, particularly old vines.",
+        "symptoms": "Wood decay, necrosis of xylem tissues, leaf chlorosis, and poor fruit development. Black streaks may appear on older wood.",
+        "treatment": "Remove and destroy infected wood. Use fungicides like copper-based or systemic fungicides.",
+        "prevention": "Use resistant grape varieties, and ensure proper vine care, pruning, and spacing for good air circulation."
+      },
+      {
+        "name": "Raspberry___healthy",
+        "description": "Healthy, disease-free raspberry plants.",
+        "symptoms": "No visible signs of disease or pest infestation.",
+        "treatment": "Regular care including proper watering, pruning, and pest management.",
+        "prevention": "Maintain healthy soil, avoid water stress, and apply balanced fertilizers."
+      },
+      {
+        "name": "Strawberry___healthy",
+        "description": "Healthy, disease-free strawberry plants.",
+        "symptoms": "No visible signs of disease or pest infestation.",
+        "treatment": "Regular care including proper watering, pruning, and pest management.",
+        "prevention": "Maintain proper spacing for good air circulation and apply preventative treatments for pests."
+      },
+      {
+        "name": "Peach___Bacterial_spot",
+        "description": "A bacterial disease caused by Xanthomonas campestris pv. pruni, affecting peach trees.",
+        "symptoms": "Watery lesions on leaves, fruit, and twigs. Yellow halos surround lesions on leaves. Fruit may develop spots and become deformed.",
+        "treatment": "Remove infected parts and apply copper-based bactericides.",
+        "prevention": "Prune trees to improve air circulation, avoid overhead irrigation, and use resistant varieties."
+      },
+      {
+        "name": "Potato___Early_blight",
+        "description": "A fungal disease caused by Alternaria solani, affecting potato plants.",
+        "symptoms": "Dark, concentric spots on older leaves, which may develop a yellow halo. Infected fruit may develop sunken lesions.",
+        "treatment": "Remove infected plant parts and apply fungicides like chlorothalonil or mancozeb.",
+        "prevention": "Practice crop rotation, avoid overhead irrigation, and remove fallen plant debris."
+      },
+      {
+        "name": "Corn_(maize)___Cercospora_leaf_spot_Gray_leaf_spot",
+        "description": "A fungal disease caused by Cercospora species and other fungi, affecting corn plants.",
+        "symptoms": "Grayish-brown lesions with dark borders on leaves. Infected leaves turn yellow and may die prematurely.",
+        "treatment": "Remove infected leaves and apply fungicides containing strobilurins or triazoles.",
+        "prevention": "Use resistant varieties, practice crop rotation, and avoid water stress."
+      },
+      {
+        "name": "Tomato___Leaf_Mold",
+        "description": "A fungal disease caused by Passalora fulva, affecting tomato plants.",
+        "symptoms": "Yellow, water-soaked spots on the upper surface of leaves, with fuzzy, grayish-green mold on the underside.",
+        "treatment": "Remove infected leaves and apply fungicides such as chlorothalonil or copper-based fungicides.",
+        "prevention": "Increase airflow around plants, avoid overhead watering, and apply preventative fungicides."
+      },
+      {
+        "name": "Tomato___Late_blight",
+        "description": "A serious disease caused by the fungus-like organism Phytophthora infestans, affecting tomatoes and potatoes.",
+        "symptoms": "Dark, water-soaked spots on leaves that quickly enlarge to form purple-brown, oily-looking blotches. White fungal growth may appear on the undersides of leaves. Infected fruits develop dark, firm lesions.",
+        "treatment": "Remove and destroy infected plant parts. Apply copper-based fungicides or specific late blight fungicides. In severe cases, remove entire plants to prevent spread.",
+        "prevention": "Use resistant varieties. Provide good air circulation by proper spacing. Water at the base of plants. Apply preventative fungicides during humid weather. Practice crop rotation."
+      }
+    
+    
+    
+]

@@ -1,0 +1,47 @@
+name: planthealthscanner
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.0
+  image: ^4.0.17
+  path_provider: ^2.0.15
+  intl: ^0.18.1
+  http: ^0.13.6
+  shared_preferences: ^2.2.2
+  # tflite:
+  #   path: /Users/admin/Downloads/scanner/flutter_tflite-master
+  tflite:
+    git:
+      url: https://github.com/sumn2u/flutter_tflite.git
+      ref: main
+  # tflite: ^1.1.2
+
+ 
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/diseases.json
+    - assets/model.tflite
+    - assets/labels.txt
+    - assets/Labels1.txt
+    - assets/Tanmay_final_model.tflite
+
+
